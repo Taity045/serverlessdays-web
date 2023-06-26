@@ -342,7 +342,7 @@
     "email": "belfast@serverlessdays.io",
     "image": "https://dz0p6k26nsc2t.cloudfront.net/img/harland_and_wolff.jpg"
   },
-  {
+  { 
     "label": "ANZ",
     "loc": { "lat": -37.8179789, "lng": 144.9649377 },
     "date": "10 March 2023",
@@ -381,6 +381,14 @@
     "website": "https://cardiff.serverlessdays.io",
     "email": "cardiff@serverlessdays.io",
     "image": "https://res.cloudinary.com/dod4lcj3h/image/upload/v1676888679/SLSDaysCardiff2023_sitkln.jpg"
+  },
+  {
+    "label": "Cape Town",
+    "date": "20 October 2023",
+    "loc": { "lat": 33.9249, "lng": 18.4241 },
+    "email": "capetown@serverlessdays.io",
+    "website": "https://capetown.serverlessdays.io",
+    "image": "https://s3.amazonaws.com/tech5.ml/cptimage.jpg"
   },
   {
     "label": "São Paulo",
